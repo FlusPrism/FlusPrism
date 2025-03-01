@@ -3,7 +3,7 @@
   <!-- dynamic typing effect 动态打字效果 -->
   <div>
     <a href="https://blog.sunguoqi.com/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);Ruijie!&center=true&size=27" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);I'm Ruijie!&center=true&size=27" />
     </a>
   </div>
 
@@ -32,6 +32,7 @@
   </div>
   
  ![亮色](https://raw.githubusercontent.com/FlusPrism/FlusPrism/output/github-contribution-grid-snake.svg)
+ 
 #  🙋 Hello
 
 <table>
@@ -47,6 +48,3 @@
 <p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
 <p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
 
-</td></tr>
-
-<tr><td>
