@@ -51,7 +51,7 @@
     <!-- 第三个图片 -->
     <tr>
       <td colspan="2" align="center">
-        <img height="220" src="https://github-readme-activity-graph.vercel.app/graph?username=FlusPrism&theme=github-compact&hide_border=true&area=true" />
+        <img height="200" src="https://github-readme-activity-graph.vercel.app/graph?username=FlusPrism&theme=github-compact&hide_border=true&area=true" />
       </td>
     </tr>
  </table>
