@@ -30,6 +30,8 @@
     <a href="https://wakatime.com/@sun0225SUN"><img src="https://wakatime.com/badge/user/42d0678c-368b-448b-9a77-5d21c5b55352.svg" /></a>
 
   </div>
+  
+ ![亮色](https://raw.githubusercontent.com/FlusPrism/FlusPrism/output/github-contribution-grid-snake.svg)
 
 #  🙋 Hello
 
