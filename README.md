@@ -55,8 +55,6 @@
       </td>
     </tr>
  </table>
-
-<tr><td>
 </table>
 
 # Future
